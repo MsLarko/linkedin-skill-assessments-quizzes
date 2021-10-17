@@ -129,7 +129,7 @@
 #### Q19. What does the degree of operating leverage represent?
 
 - [ ] how much the value of capital assets will change in response to a change in sales
-- [ ] how much the operating income of a company will change in response to a change in sales
+- [x] how much the operating income of a company will change in response to a change in sales
 - [ ] the valuation of assets to determine how much additional debt the company can borrow
 - [ ] how much the sales of a company will change in response to a change in operating income
 
